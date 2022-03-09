@@ -1,3 +1,2 @@
 # hello-world
-nothingbutlearning
-#this is main file
+## this is main file
